@@ -546,7 +546,7 @@ h2:hover .link-icon, h3:hover .link-icon{
 
 .copyBtn {
   position: absolute;
-  width: 44px;
+  width: auto;
   height: 20px;
   background: #D8D8D8;
   outline: none;
